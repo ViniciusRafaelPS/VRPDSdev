@@ -11,6 +11,7 @@
 <body>
   <div class="wrap">
     <header>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bem+vindos+ao+meu+perfil+!!" alt="Typing SVG" /></a>
       <h1>Vinicius Rafael Pereira da Silveira</h1>
       <p class="role">Estudante de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo - Polo
         Bragança Paulista.</p>
