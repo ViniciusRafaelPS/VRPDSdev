@@ -5,7 +5,6 @@
   <link rel="stylesheet" href="css/style.css">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Vinicius Rafael Pereira da Silveira — Portfólio</title>
   <link rel="icon" type="image/png" href="./Images/wunjo.png">
 </head>
 
